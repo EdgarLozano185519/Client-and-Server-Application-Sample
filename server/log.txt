@@ -1,0 +1,45 @@
+Sat Dec  1 18:08:38 2018
+: Server is created on socket 3.
+Sat Dec  1 18:10:02 2018
+: Received a "#JOIN" action from 72.48.16.45
+Sat Dec  1 18:10:02 2018
+: Responded to agent 72.48.16.45 with "$OK"
+Sat Dec  1 18:11:55 2018
+: Received a "#JOIN" action from 147.26.231.153
+Sat Dec  1 18:11:55 2018
+: Responded to agent 147.26.231.153 with "$OK"
+Sat Dec  1 18:12:19 2018
+: Received a "#JOIN" action from 147.26.231.156
+Sat Dec  1 18:12:19 2018
+: Responded to agent 147.26.231.156 with "$OK"
+Sat Dec  1 18:12:42 2018
+: Received a "#LIST" action from 72.48.16.45
+Sat Dec  1 18:12:42 2018
+: Responded to agent 72.48.16.45 with list of active agents.
+Sat Dec  1 18:13:42 2018
+: Received a "#LEAVE" action from 72.48.16.45
+Sat Dec  1 18:13:42 2018
+: Responded to agent 72.48.16.45 with "$OK"
+Sat Dec  1 18:13:58 2018
+: Received a "#LIST" action from 72.48.16.45
+Sat Dec  1 18:13:58 2018
+: No response is supplied to agent 72.48.16.45 (agent not active)
+Sat Dec  1 18:14:16 2018
+: Received a "#LEAVE" action from 147.26.231.156
+Sat Dec  1 18:14:16 2018
+: Responded to agent 147.26.231.156 with "$OK"
+Sat Dec  1 18:14:26 2018
+: Received a "#LEAVE" action from 147.26.231.156
+Sat Dec  1 18:14:50 2018
+: Received a "#LIST" action from 147.26.231.153
+Sat Dec  1 18:14:50 2018
+: Responded to agent 147.26.231.153 with list of active agents.
+Sat Dec  1 18:15:05 2018
+: Received a "#LOG" action from 147.26.231.153
+Sat Dec  1 18:15:05 2018
+: Responded to agent 147.26.231.153 with "log.txt"
+Sat Dec  1 18:16:09 2018
+: Received a "#QUIT" action from 147.26.231.153
+Sat Dec  1 18:16:09 2018
+: Responded to agent 147.26.231.153 with "$OK"Sat Dec  1 18:14:26 2018
+: No response is supplied to agent 147.26.231.156 (agent not active)
